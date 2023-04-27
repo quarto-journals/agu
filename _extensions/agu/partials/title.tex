@@ -21,3 +21,8 @@ $--% Geohealth
 $if(citation.container-title)$
 \journalname{$citation.container-title$}
 $endif$
+
+$if(draft)$
+$else$
+\draftfalse
+$endif$

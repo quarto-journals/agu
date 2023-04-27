@@ -1,0 +1,64 @@
+---
+title: "Preparing your manuscript"
+format:
+    agu-pdf:
+        keep-tex: true
+    agu-html: default
+author:
+  - name: Charles Teague
+    affiliations:
+      - name: Posit, PBC
+        address: 250 Northern Ave
+        city: Boston
+        region: Massachusetts
+        country: USA
+        postal-code: 02210
+    corresponding: true
+    orcid: 0000-0001-8715-9476
+    email: charles@posit.co
+abstract: |
+  The abstract (1) states the nature of the investigation and (2) summarizes the important conclusions. The abstract should be suitable for indexing. Your abstract should:
+
+    - Be set as a single paragraph.
+    - Be less than 250 words for all journals except GRL, for which the limit is 150 words.
+    - Not include table or figure mentions.
+    - Avoid reference citations unless dependent on or directly related to another paper (e.g., companion, comment, reply, or commentary on another paper(s)). AGU’s Style Guide discusses formatting citations in abstracts.
+    - Define all abbreviations.
+plain-language-summary: |
+  A Plain Language Summary (PLS) can be an incredibly effective science communication tool. By summarizing your paper in non-technical terms, you can explain your research and its relevance to a much broader audience. A PLS is required for submissions to AGU Advances, G-Cubed, GeoHealth, GRL, JAMES, JGR: Biogeosciences, JGR: Oceans, JGR: Planets, JGR: Solid Earth, JGR: Atmospheres, Space Weather, and Reviews of Geophysics, but optional for other journals.  A PLS should be no longer than 200 words and should be free of jargon, acronyms, equations, and any technical information that would be unknown to people from outside your scientific discipline. Read our tips for creating an effective PLS.
+keywords: []
+key-points:
+  - Key Points convey the main points and conclusions of the article. 
+  - Up to three key point statements are allowed, and each is limited to at most 140 characters with no abbreviations.
+  - Key Points are not included in the word count.
+bibliography: bibliography.bib  
+citation:
+  container-title: Geophysical Research Letters
+keep-tex: true
+---
+
+## Section Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum hendrerit facilisis velit sit amet malesuada. Phasellus ornare nibh augue, maximus sodales ex tristique vitae. Vivamus non sollicitudin orci, aliquam placerat metus. Maecenas volutpat orci felis, vel finibus urna consectetur sed. Integer in dui ac dui mollis imperdiet. Quisque sed dapibus nibh. Aenean non luctus leo. Phasellus luctus mauris id aliquet dictum. Aliquam fermentum semper massa, vel dignissim nibh dictum et. See @Hubbard2021.
+
+Phasellus interdum tincidunt ex, a euismod massa pulvinar at. Ut fringilla ut nisi nec volutpat. Morbi imperdiet congue tincidunt. Vivamus eget rutrum purus. Etiam et pretium justo. Donec et egestas sem. Donec molestie ex sit amet viverra egestas. Nullam justo nulla, fringilla at iaculis in, posuere non mauris. Ut eget imperdiet elit.
+
+In luctus mauris vitae imperdiet luctus. Morbi volutpat ligula ut tortor fermentum, eu ornare felis luctus. Donec semper diam vitae mattis posuere. Suspendisse facilisis purus nisi, sit amet egestas ex tempor ut. Cras tortor nulla, euismod at fermentum vel, dictum vel justo. Aenean commodo interdum diam nec placerat. Nunc vestibulum felis at est tincidunt, at euismod dui vestibulum. Nulla venenatis tortor at auctor iaculis. Donec consectetur neque ut sagittis ornare. Nullam pharetra felis tempor suscipit efficitur. Curabitur nibh ex, euismod at congue hendrerit, egestas id mi. Duis porttitor neque in commodo elementum. Fusce vitae fermentum nisi, euismod viverra augue. Curabitur at mi pretium, accumsan purus nec, tempus turpis.
+
+Donec non semper dui, quis aliquet est. Quisque quis sapien at massa ultricies egestas. Duis consequat ultricies erat, a pulvinar nisl vestibulum id. Sed tristique turpis ligula, et tempor lectus iaculis at. Vivamus commodo sapien ac turpis vestibulum dapibus. Morbi tristique arcu metus, et laoreet nisi varius nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit amet nisl at mauris suscipit aliquet. Nulla vitae dignissim urna. Suspendisse sit amet arcu vitae magna blandit mattis. Vivamus convallis efficitur pulvinar. Sed cursus elit nulla. Sed porta, arcu a euismod pretium, odio dui lacinia lacus, ac vulputate nulla augue eget ex. Nullam consequat ligula sit amet mattis aliquam. Nulla risus urna, ultrices vel ullamcorper id, ornare viverra nunc.
+
+Nunc in lobortis lacus. Duis maximus urna leo, varius sodales arcu interdum nec. Pellentesque imperdiet dolor in leo eleifend dapibus. Ut dapibus, lectus non viverra gravida, ipsum ex faucibus tellus, quis iaculis risus tellus eget augue. Nullam a viverra est. Cras velit nisi, interdum in lacus at, vehicula mattis elit. Curabitur eu viverra purus. Proin pellentesque, metus vitae congue convallis, lorem metus feugiat mi, sit amet auctor purus ligula bibendum ante. Nam id justo scelerisque, rhoncus lectus in, fermentum libero. Donec tincidunt egestas ex ac eleifend. Cras faucibus ipsum a nunc faucibus fermentum. Integer et maximus lacus. Nam dictum nibh id viverra convallis.
+
+## Acknowledgments
+
+Phasellus interdum tincidunt ex, a euismod massa pulvinar at. Ut fringilla ut nisi nec volutpat. Morbi imperdiet congue tincidunt. Vivamus eget rutrum purus. Etiam et pretium justo. Donec et egestas sem. Donec molestie ex sit amet viverra egestas. Nullam justo nulla, fringilla at iaculis in, posuere non mauris. Ut eget imperdiet elit.
+
+## Open research
+
+Phasellus interdum tincidunt ex, a euismod massa pulvinar at. Ut fringilla ut nisi nec volutpat. Morbi imperdiet congue tincidunt. Vivamus eget rutrum purus. Etiam et pretium justo. Donec et egestas sem. Donec molestie ex sit amet viverra egestas. Nullam justo nulla, fringilla at iaculis in, posuere non mauris. Ut eget imperdiet elit.
+
+## References {.unnumbered}
+
+:::{.refs}
+
+:::

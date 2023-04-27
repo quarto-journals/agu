@@ -9,6 +9,8 @@ contributes:
           echo: false
       number-sections: true
       csl: american-geophysical-union.csl
+      filters:
+        - agu.lua
     pdf:
       documentclass: agujournal2019
       classoptions: draft
