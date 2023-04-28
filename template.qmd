@@ -5,6 +5,19 @@ format:
         keep-tex: true
     agu-html: default
 author:
+  - name: Michael J Mahoney
+    affiliations:
+      - name: State University of New York College of Environmental Science and Forestry
+        department: Graduate Program in Environmental Science
+        address: 1 Forestry Drive
+        city: Syracuse
+        region: NY
+        country: USA
+        postal-code: 13210
+    orcid: 0000-0003-2402-304X
+    email: fake_email@fakeyfake.com
+    url: https://mm218.dev
+    acknowledgements: Translated template to Quarto.
   - name: Charles Teague
     affiliations:
       - name: Posit, PBC
