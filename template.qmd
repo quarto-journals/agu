@@ -48,6 +48,7 @@ bibliography: bibliography.bib
 citation:
   container-title: Geophysical Research Letters
 keep-tex: true
+date: last-modified
 ---
 
 ## Section Heading
